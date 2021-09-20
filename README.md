@@ -1,4 +1,4 @@
-# blairw.github.io
+# Blair Wang
 
 _Hello!_ My name is **Blair Wang**. I am a researcher interested in:
 
