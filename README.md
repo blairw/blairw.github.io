@@ -9,4 +9,4 @@ Welcome to my page today!
 
 ![TmispCoverArt40.jpg](TmispCoverArt40.jpg)
 
-Perhaps you migth be interested in my podcast, www.tmisp.org ;)
+Perhaps you might be interested in my podcast, https://www.tmisp.org ;)
