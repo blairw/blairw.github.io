@@ -34,3 +34,8 @@ Blair has taught more than 1,000 students at UNSW and the University of Sydney.
 - INFS(1602/1603/1609) at UNSW — PASS (Peer-Assisted Study Sessions) Leader, 2015.
 
 Blair holds a completion certificate from the UNSW Business School Tutor Training program (2018), the University of Sydney Business School Tutor Development program (2019), the UNSW Foundations of University Learning and Teaching Program (FULT) program (2020). Blair is accredited as an Associate Fellow of the Higher Education Academy (AFHEA).
+
+&nbsp;  
+&nbsp;  
+
+_Artwork by [Sunny Lai](https://uk.linkedin.com/in/sunny-lai-b04958136)._
