@@ -2,10 +2,6 @@
 
 Blair Wang is a Lecturer in Business Information Systems at the the University of Sydney.
 
-![TmispCoverArt40.jpg](TmispCoverArt40.jpg)
-
-Perhaps you might be interested in my podcast, [TMISP](https://www.tmisp.org) ;)
-
 ## Research
 
 Wang B., Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2020, ‘Beyond the Factory Paradigm: Digital Nomadism and the Digital Future(s) of Knowledge Work Post-COVID-19’, Journal of the Association for Information Systems, vol. 21, no. 6, article 10, doi:10.17705/1jais.00641.
