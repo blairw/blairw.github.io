@@ -31,6 +31,6 @@ Blair has taught more than 1,000 students at UNSW and the University of Sydney.
 - INFS3605 (Information Systems Capstone Project) at UNSW — Grading, 2018.
 - INFS3617 (Networks and Cybersecurity) at UNSW — Tutor, 2018.
 - INFS3611 (Information Systems Project 1) at UNSW — Grading, 2015.
-- INFS(1602|1603|1609) at UNSW — PASS (Peer-Assisted Study Sessions) Leader, 2015.
+- INFS(1602/1603/1609) at UNSW — PASS (Peer-Assisted Study Sessions) Leader, 2015.
 
 Blair holds a completion certificate from the UNSW Business School Tutor Training program (2018), the University of Sydney Business School Tutor Development program (2019), the UNSW Foundations of University Learning and Teaching Program (FULT) program (2020). Blair is accredited as an Associate Fellow of the Higher Education Academy (AFHEA).
