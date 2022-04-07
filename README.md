@@ -2,7 +2,7 @@
 
 Blair Wang is a Lecturer in Business Information Systems at the the University of Sydney.
 
-| Contact | Handle |
+| Contact Details | Handle |
 | ------- | ------ |
 | ORCID | [0000-0002-2194-5623](https://orcid.org/0000-0002-2194-5623) |
 | LinkedIn | [blairwang](https://www.linkedin.com/in/blairwang) |
