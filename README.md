@@ -4,17 +4,17 @@ Blair Wang is a Lecturer in Business Information Systems at the the University o
 
 ## Research
 
-Wang B., Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2020, ‘Beyond the Factory Paradigm: Digital Nomadism and the Digital Future(s) of Knowledge Work Post-COVID-19’, Journal of the Association for Information Systems, vol. 21, no. 6, article 10, doi:10.17705/1jais.00641.
+**Wang B.**, Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2020, ‘Beyond the Factory Paradigm: Digital Nomadism and the Digital Future(s) of Knowledge Work Post-COVID-19’, Journal of the Association for Information Systems, vol. 21, no. 6, article 10, doi:10.17705/1jais.00641.
 
-Wang B., Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2019, ‘Digital Nomadism and the Market Economy: Resistance and Compliance’, paper presented at the International Conference on Information Systems (ICIS), December, Munich (Germany), paper 1711 (RG: 336304547). This paper was the winner of the Natalie F. Hardwicke Best Student Paper Award.
+**Wang B.**, Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2019, ‘Digital Nomadism and the Market Economy: Resistance and Compliance’, paper presented at the International Conference on Information Systems (ICIS), December, Munich (Germany), paper 1711 (RG: 336304547). This paper was the winner of the Natalie F. Hardwicke Best Student Paper Award.
 
-Wang B., Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2019, ‘Beyond Bourdieu, Foucault and Habermas: Review and Assessment of Critical Information Systems Research’, paper presented at the Australasian Conference on Information Systems (ACIS), December, Perth (Australia), paper 12 (RG: 336304307).
+**Wang B.**, Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2019, ‘Beyond Bourdieu, Foucault and Habermas: Review and Assessment of Critical Information Systems Research’, paper presented at the Australasian Conference on Information Systems (ACIS), December, Perth (Australia), paper 12 (RG: 336304307).
 
-Boell S. & Wang B., 2019, ‘www.litbaskets.io, an IT Artifact Supporting Exploratory Literature Searches for Information Systems Research’, paper presented at the Australasian Conference on Information Systems (ACIS), December, Perth (Australia), paper 141 (RG: 336868520).
+Boell S. & **Wang B.**, 2019, ‘www.litbaskets.io, an IT Artifact Supporting Exploratory Literature Searches for Information Systems Research’, paper presented at the Australasian Conference on Information Systems (ACIS), December, Perth (Australia), paper 141 (RG: 336868520).
 
-Wang B., Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2018, ‘Digital Work and High-Tech Wanderers: Three Theoretical Framings and a Research Agenda for Digital Nomadism’, paper presented at the Australasian Conference on Information Systems (ACIS), December, Sydney (Australia), doi:10.5130/acis2018.bl (RG: 330938637).
+**Wang B.**, Schlagwein D., Cecez-Kecmanovic D., & Cahalane M.C., 2018, ‘Digital Work and High-Tech Wanderers: Three Theoretical Framings and a Research Agenda for Digital Nomadism’, paper presented at the Australasian Conference on Information Systems (ACIS), December, Sydney (Australia), doi:10.5130/acis2018.bl (RG: 330938637).
 
-Wang B., Lim E.T.K., & Van Toorn C., 2016, ‘Gimme Money! Designing Digital Entrepreneurial Crowdfunding Platforms for Persuasion and its Social Implications’, paper presented at the Pacific Asia Conference on Information Systems (PACIS), July, Chiayi (Taiwan), paper 337 (RG: 324676733).
+**Wang B.**, Lim E.T.K., & Van Toorn C., 2016, ‘Gimme Money! Designing Digital Entrepreneurial Crowdfunding Platforms for Persuasion and its Social Implications’, paper presented at the Pacific Asia Conference on Information Systems (PACIS), July, Chiayi (Taiwan), paper 337 (RG: 324676733).
 
 ## Teaching
 
